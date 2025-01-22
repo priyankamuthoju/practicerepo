@@ -21,7 +21,11 @@ public class BaseClass {
 		
 		public static void APplication_close()
 		{
+<<<<<<< HEAD
 			System.out.println("browser closed");
+=======
+			
+>>>>>>> 55f19b0ee67e75e830cf8598e4ee4210e2022e36
 			Driver.close();
 		}
 		
